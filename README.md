@@ -1,2 +1,2 @@
 # SymonSays
-it is simple and easy to made game
+it is simple and easy to made game.
