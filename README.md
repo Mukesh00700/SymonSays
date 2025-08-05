@@ -1,2 +1,2 @@
-# SymonSays
-it is simple and easy to made game.
+# Symon Says
+A simple and a interactive color sequence memorization game, with increasing level of difficulty.
